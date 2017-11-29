@@ -15,7 +15,7 @@ public class MessageTest extends TestCase {
 	  
 		Message msg = new Message();
 				
-		String valorEsperado  = "GCS";
+		String valorEsperado  = "Deu certo";
 		String valorRetornado = msg.getMessage();
 		
 		assertEquals(valorEsperado, valorRetornado);
