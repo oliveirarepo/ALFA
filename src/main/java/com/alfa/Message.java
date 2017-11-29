@@ -2,7 +2,7 @@ package com.alfa;
 
 public class Message {
 	
-	String message = "Deu Certo";
+	String message = "Deu certo";
 
 	public String getMessage() {
 		return message;
